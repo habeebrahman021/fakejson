@@ -1,1 +1,35 @@
 
+{
+  "status": "success",
+  "data": {
+    "cylinders": [
+      {
+        "id": 1,
+        "name": "3kg LPG Cylinder",
+        "image": "https://example.com/images/lpg-3kg.png",
+        "price": 150.00,
+        "currency": "INR",
+        "description": "Compact and portable 3kg LPG cylinder, ideal for small households or camping.",
+        "stock": 10
+      },
+      {
+        "id": 2,
+        "name": "6kg LPG Cylinder",
+        "image": "https://example.com/images/lpg-6kg.png",
+        "price": 300.00,
+        "currency": "INR",
+        "description": "Medium-sized 6kg LPG cylinder, suitable for small to medium households.",
+        "stock": 5
+      },
+      {
+        "id": 3,
+        "name": "13kg LPG Cylinder",
+        "image": "https://example.com/images/lpg-13kg.png",
+        "price": 700.00,
+        "currency": "INR",
+        "description": "Standard 13kg LPG cylinder, best for regular home usage.",
+        "stock": 2
+      }
+    ],
+  }
+}
